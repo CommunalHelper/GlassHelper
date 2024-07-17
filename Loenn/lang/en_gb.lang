@@ -1,0 +1,7 @@
+mods.GlassHelper.name=Glass Helper
+
+# Purple Booster
+entities.GlassHelper/ReverseBooster.placements.name.green=Reverse Booster
+entities.GlassHelper/ReverseBooster.placements.name.red=Reverse Booster (Red)
+entities.GlassHelper/ReverseBooster.attributes.description.red=Determines whether the booster is green and short distance, or red and infinite distance.
+entities.GlassHelper/ReverseBooster.attributes.description.twistSprite=The texture path for the reverse booster overlay relative to Graphics/Atlases/Gameplay. The default is "objects/revBooster/twist/twist".
